@@ -1,4 +1,4 @@
-```markdown
+
 # SpreadZero — Fair Price Intelligence and Direct Procurement Network
 
 ## Submission Metadata
